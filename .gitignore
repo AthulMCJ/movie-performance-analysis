@@ -1,0 +1,9 @@
+"Data/" 
+"Datasets/" 
+
+# Ignore raw data files
+Data/
+Datasets/
+*.csv
+*.tsv
+
